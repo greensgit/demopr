@@ -9,6 +9,7 @@ public class ScannerClass {
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("My name is balaji writing logic for login");
+		System.out.println("My name is balaji writing Add to kart");
 
 		//ctrl+2 and then release and press L
 		System.out.println("Enter a byte value as input");
